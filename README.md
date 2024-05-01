@@ -1,5 +1,4 @@
 # GDP33 Posit for RISC-V
-Posits for RISC-V
 Implement Posit Processing Unit on CV32E40P
 
 [posit standard-2](https://posithub.org/docs/posit_standard-2.pdf)  
