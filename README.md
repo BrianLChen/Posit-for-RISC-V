@@ -24,13 +24,14 @@ Push to remote branch: whilst on local branch "git push origin <remote_name>:<lo
 Then go to github.com and create pull request if needed, and ask for reviewer
 
 ## Instructions
-### Clone the original CV32E40P repo
+Clone the original CV32E40P repo
 ```
 git clone https://github.com/openhwgroup/cv32e40p
 cd cv32e40p/ 
 git checkout fcd5968
 ```
-### Copy PPU (Posit Process Unit) into CV32E40P
+Copy PPU (Posit Process Unit) into CV32E40P
+
 ### Test Program
 ## Result
 ![Test conpare with IEEE 754 Float](/Picture/Forward_Compare_large_text.png)
