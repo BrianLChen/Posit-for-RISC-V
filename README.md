@@ -10,7 +10,7 @@ Robin Ali (https://github.com/RASoton)
 
 Sheng Yang Wang (https://github.com/ColinWong-529)
 
-Xiaoan He (https://github.com/xh2g20soton)
+Xiaoan He (https://github.com/XiaoanHe)
 
 Yueyu Guo (https://github.com/yueyuguo)
 
