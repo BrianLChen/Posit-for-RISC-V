@@ -1,10 +1,22 @@
 # GDP33 Project -- Posit for RISC-V
 Implement Posit Processing Unit on CV32E40P
 
+This Project is a MEng GDP Project at **Univeristy of Southampton** in collaboration with **Embecosm**.
+
+## Member
+Letian Chen (https://github.com/BrianLChen)
+
+Robin Ali (https://github.com/RASoton)
+
+Sheng Yang Wang (https://github.com/ColinWong-529)
+
+Xiaoan He (https://github.com/XiaoanHe)
+
+Yueyu Guo (https://github.com/yueyuguo)
+
 ## Background Informations
 [posit standard-2](https://posithub.org/docs/posit_standard-2.pdf)  
 [cv32e40p main Repository](https://github.com/openhwgroup/cv32e40p/tree/master)
-
 
 ## Instructions
 Clone the original CV32E40P repo
